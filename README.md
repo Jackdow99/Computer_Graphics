@@ -45,11 +45,14 @@ npm run dev
 | **키보드 (Keyboard)** | **Spacebar (스페이스바)** | 창밖의 테마(차원)를 실시간으로 전환 <br>*(우주 ➡️ 바다 ➡️ 숲속 ➡️ 연금술 공방)* |
 
 ##📸 실행 이미지
-<img width="1898" height="899" alt="방1" src="https://github.com/user-attachments/assets/3a9bdd7f-7111-44e5-be4c-1f03f61cd074" />  <img width="1899" height="907" alt="방2" src="https://github.com/user-attachments/assets/f1f8a323-7095-4941-8649-1ae9a63ade91" />
-<img width="1896" height="899" alt="방4" src="https://github.com/user-attachments/assets/0bc38de1-ddc0-4ea7-9c16-0a28afa8e2b4" />  <img width="1897" height="899" alt="방3" src="https://github.com/user-attachments/assets/8f9b9356-f720-4687-a1c1-f6970dfc26f8" />
-
-<img width="1896" height="900" alt="태양계" src="https://github.com/user-attachments/assets/cdb222f7-23f1-4c5a-b075-62d5eb9ac68c" />  <img width="1894" height="897" alt="바다" src="https://github.com/user-attachments/assets/19ec7ba6-e8c3-490a-964e-164c8e9d5bc2" />
-<img width="1899" height="899" alt="숲" src="https://github.com/user-attachments/assets/258029e8-50e7-4353-94c5-a1876ebd6832" />  <img width="1885" height="905" alt="연금술" src="https://github.com/user-attachments/assets/003fe739-f842-41a3-b9a2-a2736043ef33" />
+<img width="1898" height="899" alt="방1" src="https://github.com/user-attachments/assets/3a9bdd7f-7111-44e5-be4c-1f03f61cd074" />  
+<img width="1899" height="907" alt="방2" src="https://github.com/user-attachments/assets/f1f8a323-7095-4941-8649-1ae9a63ade91" />
+<img width="1896" height="899" alt="방4" src="https://github.com/user-attachments/assets/0bc38de1-ddc0-4ea7-9c16-0a28afa8e2b4" />  
+<img width="1897" height="899" alt="방3" src="https://github.com/user-attachments/assets/8f9b9356-f720-4687-a1c1-f6970dfc26f8" />
+<img width="1896" height="900" alt="태양계" src="https://github.com/user-attachments/assets/cdb222f7-23f1-4c5a-b075-62d5eb9ac68c" /> 
+<img width="1894" height="897" alt="바다" src="https://github.com/user-attachments/assets/19ec7ba6-e8c3-490a-964e-164c8e9d5bc2" />
+<img width="1899" height="899" alt="숲" src="https://github.com/user-attachments/assets/258029e8-50e7-4353-94c5-a1876ebd6832" />  
+<img width="1885" height="905" alt="연금술" src="https://github.com/user-attachments/assets/003fe739-f842-41a3-b9a2-a2736043ef33" />
 
 ## 👥 팀원 및 역할
 
